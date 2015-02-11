@@ -1,2 +1,2 @@
 # laravel5_doc
-翻译laravel5的框架
+laravel5框架文档的中文翻译
