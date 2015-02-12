@@ -7,6 +7,7 @@
 * <a href="#configcache">Configuration Caching 配置缓存</a>
 * <a href="#mmode">Maintenance Mode 维护模式</a>
 * <a href="#prettyurls">Pretty URLs 优雅的链接</a>
+
 ### <a name="introduction">Introduction 简介</a>
 
 >All of the configuration files for the Laravel framework are stored in
